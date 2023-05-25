@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "Reqres API",
+    "environment": "qa.guru",
+    "comment": "comment",
+    "reportLink": "reportLink",
+    "language": "en",
+    "allureFolder": "build/reports/allure-report/allureReport",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5845993585:AAE4FCYc6HeHVqDXzKawffYWn1y4g4sHzM8",
+    "chat": "-851314314",
+    "replyTo": ""
+  }
+}
